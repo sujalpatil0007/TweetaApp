@@ -89,11 +89,6 @@ Do NOT expose it in public repositories.
 
 ---
 
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
----
 
 ## 📌 Future Improvements
 
